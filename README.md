@@ -13,11 +13,9 @@
 - Git & GitHub
 - Problem Solving
 - Basic Networking
-- Packet Tracer
 
 ### Currently Learning:
 - CCNA
-- Linux
 - DevOps Fundamentals
 
 ---
